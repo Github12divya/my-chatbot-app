@@ -1,0 +1,165 @@
+intent,response
+acknowledge,"Thank you for visiting our medibot! I’m here to assist you with  remedies, and symptom checks,Diet,physical activities, Let me know how I can help!"""
+acknowledge,"Thank you for your query,hope you get well soon!"
+BP,Let me know which type of services do you want for BP?
+BP_Ayurvedic Remedies,"Add garlic to your diet to help reduce high blood pressure. Fenugreek contains calcium, fiber, and helps reduce bad cholesterol. Dark chocolate also helps reduce hypertension. Eat bananas for a good potassium intake, which helps lower blood pressure"
+BP_Diet,BP Diet Information
+BP_Home Remedies,"eat pomegranates which contains Polyphenols, Indian black berry which contains potassium needed for muscles , reduces cholesterol level and sugar level, include beetroot which contains nitrates which help High BP."
+BP_medication,"CARDIGLOW-H40(Telmisartan and Hydrochlorothiazide Tablets IP) dose-40mg, Cause-  used to treat high blood pressure (hypertension).please check the medicine while using and consult your doctor"
+BP_Naturopathy Remedies,Take curry leaves powder and mix it with water. Drink twice a day which helps controlling High BP
+BP_remedies,Please let me know which type of BP remedies do you want?
+BP_symptom_check,choose which type of symptom most relevent to you for bp
+BP_yoga,Practice Sasankasana and Sheetkari Pranayama (Cooling Pranayama) to help manage blood pressure.
+Cold _Remedies,Let me  know which type of remedies do you want?
+Cold,please check which services do you want for cold?
+Cold_Ayurvedic Remedies,"Take fresh Tulasi leaves, grind them into a paste, and filter the extract using a cloth. Add one spoon of pepper powder to the extract and drink it with water in the morning and evening. Due to its antiviral properties, this remedy helps relieve cough and a sore throat"
+Cold_Diet,"Make sure to maintain good water intake and consume fluids like buttermilk and soups. Also, add fruits and vegetables such as broccoli, cranberries, and blueberries, along with green tea and red onions, to support your overall health."
+Cold_Home Remedies,"1.Take a handful of sugar and heat it over a flame until it produces smoke. Close your eyes and inhale the smoke gently through your nose for relief.
+
+2.Additionally, drinking warm milk with turmeric is beneficial. Lack of sleep can weaken immunity, so consuming honey and lemon juice can help. Drinking ginger tea is also a great remedy for boosting immunity and overall health."
+Cold_Medication,"Cetirizine Tablets(cetirizine Hydrochloride I.T), dose-10mg (children 5mg),CETIRIZINE (se TI ra zeen) prevents and treats allergy symptoms, such as red, itchy eyes, sneezing, a runny or stuffy nose, or hives. It works by blocking histamine, a substance released by the body during an allergic reaction."
+Cold_Naturopathy Remedies,"Apply one drop of peppermint oil on each side of your nose. You can also use scented lemon or eucalyptus oils, or place one drop of honey in your nose. After 4 to 5 minutes, your cold will be relieved."
+Cold_Physical_Activity,"Go jogging with natural and deep breathing, allowing yourself to inhale fresh air properly for about 20 minutes. After that, practice Surya Namaskar to help your body absorb more oxygen for an extended period. Finally, perform Pranayama only if needed to further enhance your breathing and overall well-being."
+Cold_Symptom_Check,could you please tell me which type of cold symptoms do you have?
+Confirm_Cluster_Headache,"Cluster headaches are extremely painful headaches that occur in cycles, usually affecting one side of the head, often around the eye,To manage symptoms, maintain a consistent sleep schedule, avoid known triggers, and practice relaxation techniques. If episodes are frequent or severe, consult a doctor for medical treatment."
+Confirm_common_Cold,"It looks like you may have common cold symptoms (caused by the Rhinovirus), which can result from allergies, infections, low immunity, or exposure to infected individuals. If you’d like, I can suggest remedies, diet tips, and activities to help manage your symptoms. For further evaluation, please consult a doctor."""
+Confirm_Common_Constipation,"I can't determine other constipation-related symptoms. If you're experiencing severe or unusual symptoms, please consult your doctor for proper evaluation and guidance"
+Confirm_Common_Fever,"Fever is usually a sign that your body is fighting an infection, If the fever persists for more than 3 days or is very high, consult a doctor. Let me know if you need home remedies or care tips!"""
+Confirm_Dengue,"This symptoms looks like dengue fever,Dengue fever is a viral infection transmitted by mosquitoes,I it is very important to consult your doctor for good treatment"
+Confirm_Dry_Cough,"Dry cough, also known as a non-productive cough, is a common respiratory symptom that can be caused by various factors such as viral infections, allergies, environmental irritants, asthma, gastroesophageal diseases, and respiratory tract infections so please consult your doctor and poceed based on your symptoms"
+Confirm_Emotional_Stress,"Emotional stress can impact both mental and physical well-being, To manage emotional stress, try relaxation techniques, meditation, deep breathing, and talking to a trusted person. If stress becomes overwhelming, consider seeking professional support"
+Confirm_Food_Poisoning,"Food poisoning occurs when contaminated food or water causes infection in the digestive system,If symptoms are severe seek medical attention"
+Confirm_Gum_Motions,this symptoms seems like gum motion please consult your doctor for further checkup
+Confirm_Heat_Waves,"Heat waves can cause extreme temperatures, leading to dehydration, heat exhaustion, and even heatstroke,,To stay safe, drink plenty of water, wear light clothing, avoid direct sun exposure. If you experience severe symptoms, seek medical attention immediately."
+Confirm_High_BP,"It looks like you're experiencing symptoms of high blood pressure. While this bot can provide general guidance, it’s important to consult a healthcare professional for an accurate diagnosis and proper treatment. Please reach out to your doctor as soon as possible."
+Confirm_Loose_Motions,This seems like loose motions symptoms i suggest you to please consult your doctor or if you want any remedies please check with me
+Confirm_Low_BP,"Your symptoms suggest low blood pressure. While I can provide basic information, a medical professional is best suited to assess your condition. Please consider seeking medical advice from a doctor for appropriate care."
+Confirm_Malaria,It seem like malaria symptoms I would suggest you to please consult your doctor
+Confirm_Mental_Stress,"Mental stress can affect your thoughts, emotions, and overall well-being,To manage mental stress, try mindfulness, deep breathing, meditation, and taking breaks.if the symptoms are getting worse please professionals help which can beneficial"
+Confirm_Migraine,"Migraine is a neurological condition that causes intense headaches,To manage migraines, rest in a dark and quiet place, stay hydrated, and try relaxation techniques. If migraines occur frequently or are severe, consult a doctor for proper treatment."
+Confirm_Motion_Sickness,"Motion sickness occurs when there is a disconnect between what your eyes see and what your inner ear senses during movement, such as in a car, boat, or airplane,To prevent it, focus on a fixed point, avoid reading while traveling, stay hydrated, and take deep breaths. take consult rom medical ""practitioner and do accordingly"
+Confirm_Physical_Stress,"Physical stress occurs when the body is overworked due to excessive physical activity,To manage physical stress, get enough rest, stay hydrated, eat a balanced diet, and practice relaxation techniques like stretching or deep breathing,If symptoms persist, consult a doctor"
+Confirm_Sinus_Headache,"A sinus headache occurs due to inflammation or congestion in the sinuses, often caused by infections, allergies, or cold weather,To relieve it, try steam inhalation, stay hydrated, use a warm compress, and avoid allergens. If symptoms persist or worsen, consult a doctor"
+Confirm_Stress_Symptoms,"Stress can affect both the mind and body, leading to symptoms like headaches, muscle tension, fatigue, irritability, trouble sleeping, difficulty concentrating, and digestive issues,                                                    Managing stress through relaxation techniques, exercise, and a balanced diet can help"
+Confirm_Tension_Headache,"Tension headaches are the most common type of headache,To relieve it, try relaxation techniques, stay hydrated, get enough rest, and avoid stress triggers. If headaches persist frequently, consult a doctor"
+Confirm_Typhoid,"Typhoid is a bacterial infection that can cause high fever, weakness, and digestive issues.  it's good to consult a doctor for proper diagnosis and treatment. Let me know if you need home remedies or diet tips"
+Confirm_Wet_Cough,"Wet cough, also known as a productive cough, is characterized by mucus or phlegm production. It can be caused by several conditions so please consult physician for better treatment"
+Constipation,which services do you want for Constipation?
+Constipation_Ayurvedic Remedies,Eat Neem fruit and spit out the seeds. This helps with good bowel movements
+Constipation_Diet,"Fiber supports the microbiome :the healthy balance of bacteria in the digestive track so,eat fiber rich foods like apple,banana,greenleafy vegetables,whole grains cooked vegetables, aslo eat curd rice which contains good bacteria like Lactobacillus which supports gut health"
+Constipation_Home Remedies,"Take 5 grams of ginger and 5 grams of jaggery, grind them well, and eat this at night and drink some water which helps for constipation problem"
+Constipation_Medication,"TOPLAC (Lactulose Solution USP), Dose- 10gm/15ml, cause- Lactulose is used to treat constipation. It helps increase the number of bowel movements per day and the number of days on which bowel movements occur in patients with a history of chronic (long-lasting) constipation"
+Constipation_Naturopathy Remedies,"waking up early in the morning, drink two glasses of warm water that was stored in a copper vessel the previous day while sitting in a malasana position. Then, eat a pinch of ginger sprinkled with rock salt."
+Constipation_Remedies,Let me know which type of remedies do you want?
+Constipation_Symptom_Check,please check your constipation symptoms
+Constipation_Yoga,"It is good to practice Malasana, as it provides multiple health benefits, including improved digestion, flexibility, and better blood circulation"
+Cough,Which type of services do you want for Cough?
+Cough_Ayurvedic Remedies,"Chew and eat garlic, as it has antibacterial and antiviral properties. Additionally, take some turmeric with honey to soothe the throat and reduce irritation.
+
+Another effective remedy: To take Karakkaya (Haritaki) powder, add it to boiling water, and let it steep. Pour it into a glass, add some honey, and drink it twice a day for best results."
+Cough_Diet,This is an pasting technique which is for 2 to 3 by taking lemon and honey water with some addition coconut water as a diet with steam inhaling hot water bath after 2 to 3 days based on your sickness drink plenty of water at morning a nd then honey water up to your lunch  and then evening take good fruit meat with some boiled vegetables
+Cough_Home Remedies,"Take a small piece of ginger and mix it with Sindhav Lavana (rock salt). Chew the mixture slowly in your mouth. This remedy is highly effective in relieving dry cough.                                                                                                                      
+                                                                                   or                                                                                                           
+Take one spoon of ajwain (carom seeds), a small amount of salt, and one clove. Grind them into a fine powder. Chew and swallow this mixture to help relieve chronic cough effectively."
+Cough_Medication,"MONADRYL cough syrup (Diphenhydramine Hydrochloride, Ammonium Chloride , Sodium Chloride, Sodium Citrate & Menthol Syrup) dose-200mg 100ml cause-this Syrup helps to loosen thick mucus and reduces its stickiness, making it easier to cough out. This makes it easier for air to move in and out. It will also relieve allergy symptoms like watery eyes, sneezing, runny nose or throat irritation and help you carry out your daily activities more easily."
+Cough_Medication,Chlorpheniramine Maleate-2mg +dextromethorphan Hydrobromide-10mg
+Cough_Naturopathy Remedies,"Chew a neem stick and spit it out. The bitterness helps reduce toxins and keeps your mouth fresh. Additionally, do facial steam inhalation by adding turmeric to the water for better respiratory health and a refreshing effect."
+Cough_Remedies,Please let me know which type of remedies do you want?
+Cough_Symptom_Check,please check which type of symptoms do you have
+Default Fallback Intent,I didn't get that. Can you say it again?
+Default Fallback Intent,I missed what you said. What was that?
+Default Fallback Intent,"Sorry, could you say that again?"
+Default Fallback Intent,"Sorry, can you say that again?"
+Default Fallback Intent,Can you say that again?
+Default Fallback Intent,"Sorry, I didn't get that. Can you rephrase?"
+Default Fallback Intent,"Sorry, what was that?"
+Default Fallback Intent,One more time?
+Default Fallback Intent,What was that?
+Default Fallback Intent,Say that one more time?
+Default Fallback Intent,I didn't get that. Can you repeat?
+Default Fallback Intent,"I missed that, say that again?"
+Default Welcome Intent,Hi! How are you doing?
+Default Welcome Intent,Hello! How can I help you?
+Default Welcome Intent,Good day! What can I do for you today?
+Default Welcome Intent,Greetings! How can I assist?
+Diarrhea,which type of services do you want for Diarrhea?
+Diarrhea_Ayurvedic Remedies,"karakkaya(Haritaki),Thanikaya(Bibhitaki),Amla(Bibhitaki),kaachu(chandr chakra saaram) take all these into powder as 5grams and mix it with butter milk and drink this can help for loose,motions gum motions, and blood motions"
+Diarrhea_Diet,"while you are suffering with loose motions it is good to keep body more hydrated so that drink water eventually with gaps low consumption, drink coconut water with which contains electrolytes some pleople want more so add electral  powder to it and drink and for solid food eat curd rice"
+Diarrhea_Home Remedies,"Take a pinch of sunnam (lime powder) and half a teaspoon of cumin seeds (jelakarra).Crush them together in your hand,Consume the mixture.After that, drink some warm water for gum motions"
+Diarrhea_Medication,"LOPAMIDE (Lopamide hydrochloride tablets I.P.)  Dose-2mg cause-Lopamide Tablet is an anti-diarrhoeal medication. It works by slowing down the contraction of the intestines thereby decreasing the speed at which the contents pass through it. This allows more time for reabsorption of fluids and nutrients, making the stools more solid and less frequent."
+Diarrhea_Naturopathy Remedies,"Grind tender pomegranate fruit or pomegranate flowers into a smooth paste. Add a pinch of edible camphor(pacha karpooram) to this paste, Form small balls(small size soap nut) from the mixture. Consuming these balls with buttermilk can help relieve diarrhea                                                                                                                       please do check the goodness in your body after taking this or if you feel any dis comfort please consult your doctor"
+Diarrhea_Remedies,Please let me know which type of remedies do you want?
+Diarrhea_Symptom_Check,please check your symptoms do you have related to diarrhea
+Fever,which type of service do you need for fever?
+Fever_Diet,"the foods recomended for fever includes fresh fruits,cooked vegetables,soups(mixed vegetables),coconut water because it is more important to keep your body more hyderated as well some probiotics for good gut health"
+Fever_Home Remedies,"Take 5 grams of coriander seeds (Dhaniyalu), 3 grams of cumin seeds (Jeelakarra), and 5 grams of ginger, and lightly crush them. Add this mixture to a glass of boiling water and let it simmer until the liquid reduces to one-fourth of its original quantity. Strain the decoction and drink it warm to help reduce fever and chills if your symptoms getting worse please consult your doctor"
+Fever_Naturopathy Remedies,"sleep with an cotton cloth which covers your body on an plain and even bed with a bedsheet on it and now cover your body with wet bead sheet and sleep for few minutes,this even helpful for your high temperature,even though you are repeating with your symptoms please consult your physician"
+Fever_remedies,may i know which type of remedies do you want
+Fever_Symptom_Check,please choose the fever symptoms most relevant to you
+Hairfall,Which type of services do you want for Hairfall?
+Hairfall_Ayurvedi Remedie,"Take 1 cup of coconut milk, apply it to your scalp and all your hair, then cover your scalp with a warm towel. Wash it off. This should be done after a head bath"
+Hairfall_Diet,"Eat iron rich foods like apricots,luttuce,eat more biotin rich foods like mushrooms 100 grams,panneer,flake seeds and leafy vegies like spring onions menthi, sunflower seeds non vegetarian food like liver,egg"
+Hairfall_Home Remedies,"Take onion paste and apply it to your scalp. Let it dry for half an hour, then take a head bath. This helps with hair growth, reduces hair fall, and improves blood circulation to the scalp"
+Hairfall_Naturopathy Remedies,"Take Drumstick leaves 2 cups,half cup curd,1/3cup amla powder make whole as paste and apply to your scalp and let it be half an hour and dhead bath,do this twice a week  which helps for mosturizing your scalp"
+Hairfall_Remedies,Please let me know which type of remedies do you want?
+Hairfall_Remedies,Please choose which type of remedy you prefer?
+Hairfall_Yoga,"Adho Mukha Svanasana (Downward-Facing Dog), Uttanasana (Standing Forward Bend), Vajrasana (Diamond Pose), and Balayam yoga (rubbing fingernails) please do asanas by practice"
+Headache _Ayurvedic Remedies,Take a handful of coriander seeds (dhaniyalu) and mix them with a little water to make a thick paste. Apply this paste to the affected area (maadu)
+Headache,let me know which type of services do you want?
+Headache_Diet,"1.Increase water intake to 4 to 5 liters per day to help keep your body cool.
+                                                         2.
+Drinking enough water supports regular bowel movements (twice a day), helping to cleanse your stomach.
+                                                          3.
+Maintain a 2-hour gap between drinking water and meals for better digestion.
+                                                            4.
+Include fresh fruits in your diet for breakfast and in the evening.
+                                                             5.
+Take regular head baths to stay refreshed.
+                                                         6.
+Avoid coffee and tea for better health"
+Headache_Naturopathy Remedies,drink more water which is up to 4 to 5 liters to get your body cool and some electrolytes like coconut water
+Headache_Remedies,let me know which type of remedies do you want?
+Headache_Symptom_check,please check your head ache symptoms
+heatwaves,let me know which type of services do you want for heatwaves?
+heatwaves_Ayurvedic Remedies,"Take equal amounts of Tippatiga (Balloon Vine) dried leaves, Usori Gavaravu (Gooseberry), and Parpatakam (Fumaria Indica) and grind them into a fine powder. Take 20 to 30 grams of this powder and add it to 4 glasses of water. Boil the mixture until it reduces to 1 glass,For best results, consume 2 to 3 tablespoons of the warm decoction morning and evening."
+heatwaves_Diets,"Drink more water stored in a mud pot, as it has a natural cooling effect. Consume juices made from seasonal fruits. Eat curd rice and drink buttermilk, which are rich in probiotics. Include fruits like muskmelon and watermelon in your diet. Also, eat sabudana (sago) for better digestion and energy"
+heatwaves_Home Remedies,"1.glass of  buttermilk,A pinch of salt,1 teaspoon of sugar A few drops of lemon juice mix well which helps for  Preventing dehydration Soothes the stomach and  Balances electrolytes in body                                                                            
+                                                                         2    
+
+Take fresh ash gourd, cut it into pieces, and grind well to extract the juice. Filter it and take 15 to 20 ml of the juice, adding a little sugar for taste. Consume this 3 to 4 times a day to keep the body hydrated and protect against heat waves."
+heatwaves_Remedies,please tell me which type of remedies do you want?
+heatwaves_Symptom_Check,please check your symptoms
+Other_BP_Symptoms,"I understand that you're experiencing other BP symptoms. Since this bot is limited in providing medical diagnoses, I highly recommend consulting a qualified doctor for proper evaluation and treatment"
+Other_Cold_Symptoms,"I'm here to provide general information, but I can't diagnose specific conditions or confirm if your symptoms indicate something more serious. If you're experiencing severe symptoms , or prolonged illness, it's best to consult a doctor for proper evaluation and treatment."""
+Other_Constipation_Symptoms,"I cannot determine other constipation-related symptoms. If you're experiencing severe or unusual symptoms, please consult your doctor for proper evaluation and guidance"
+Other_Cough_Symptoms,"Cough can present with various symptoms depending on the underlying cause,I can't trigger symptoms what exactly you have so please consult the doctor for further treatment"
+Other_Diarrhea_Symptoms,"I Cannot determine other diarrhea-related symptoms. If you're experiencing severe or unusual symptoms, please consult your doctor for proper evaluation and guidance."
+Other_Fever_Symptoms,If you feel like some other symptoms with fever or any difficulty in your symptoms please consult your physician
+Other_Headache_Symptoms,"Headaches can come with various symptoms depending on the type and cause,so if you feel any of other symptoms consult physician"
+Other_Heat_Waves_Symptoms,"""In addition to common heat wave symptoms, other signs to feel,please consult doctor immediately"
+other_illeness,"Iam providing some remedies for othre illeness like Piles,Migraine,fits please check them"
+Other_illeness_Fits,coriander leaves or powder with hot water can helps for fits patient
+Other_illeness_Migraine,Mint leaves with hot water can helps to reduction of head ache(migraine) please check the severity and do accordingly
+Other_illeness_Piles,lemon with milk immediate consumption  can helps for piles
+Other_illeness_Piles,take some Bitter guard powderand it  with butter milk
+other_illeness_Remedies,please check the remedies for other illeness
+Stress,let me know which type of services do you want?
+Stress_Home Remedie,take 3 to 4 Tulasi leaves chew and swallow reduces stress and pressure and improves the energy
+Stress_Remedies,Please let me know which type of remedies do you want?
+Stress_Symptom_Check,please check  if you have any of the  stress symptoms
+Stress_yoga,"Chandra Bhedana Pranayama – This practice stimulates the parasympathetic nervous system, helping to relax both the brain and body, promoting a sense of calmness.
+
+Chandra Nadi Pranayama – A cooling and soothing breathing technique that helps balance emotions and reduces stress.
+
+Bhramari Pranayama – Encourages positive thinking by stimulating the amygdala and relaxing the hypothalamus, which helps in emotional regulation and mental calmness.
+
+Sheetali Pranayama – Lowers core body temperature, providing a cooling effect that leaves the body feeling refreshed and relaxed."
+Vomitings,please let me know which type of services do you want?
+Vomitings_Ayurvedic Remedies,"This remedie is useful for healing vomitings,Take equal amounts of cloves (lavangam), cumin seeds (jelakarra), cinnamon (dhalchinachakka), and cardamom. Add a little water and grind them into a paste. Mix this paste with honey and consume it for better health benefits."
+Vomitings_Diet,"To support digestion and overall health, consume potassium-rich foods like bananas, fiber-rich foods, herbal teas, probiotics, and plain rice. Stay well-hydrated by drinking plenty of water and natural electrolytes such as coconut water"
+Vomitings_Home Remedies,"Take equal amounts of ginger and onion, grind them into a paste, and filter it to extract the liquid. Consume this liquid every 2 hours and observe the result."
+Vomitings_Medication,"Domperidone tablets I.P.   Dose-10mg Cause-Domperidone  10 MG Tablet is an effective anti-emetic medicine used to relieve nausea and vomiting caused by delayed gastric emptying (the time it takes for food to empty from the stomach and enter the small intestine). It increases intestinal movements and facilitates the emptying of the bowel. It is used alone or in combination with other medicines for relieving nausea, vomiting and indigestion   2.Domperidone syrup - Helps with nausea and vomiting caused by delayed stomach emptying."
+Vomitings_Naturopathy Remedies,"""Take warm water mixed with salt and drink it quickly until your stomach feels full. This will induce vomiting within minutes, helping to relieve discomfort."""
+Vomitings_Remedies,Please let me know which type of remedies do you want?
+Vomitings_Symptom_Check,please check the  vomitings symptoms
+Welocme_Intent,"Welcome to our MedicalBot, these are the service available in this bot."
